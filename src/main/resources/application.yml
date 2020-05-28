@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:h2:~/jpashop1
+    url: jdbc:h2:/data/jpashop1
     #url: jdbc:h2:tcp://localhost/~/jpashop1;MVCC=TRUE
     username: sa
     password:
